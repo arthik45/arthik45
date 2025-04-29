@@ -35,7 +35,7 @@ Welcome to my GitHub! I am a **Full-Stack Developer** with a passion for buildin
 
 Here are some of the projects I’ve worked on as Fresher:
 
-### [Project 1: Payment Management System (MERN Stack)](link-to-project)
+### [Project 1: Payment Management System (MERN Stack)](https://github.com/arthik45/payment-app)
 - **Tech Stack**: React, Node.js, MongoDB
 - **Description**: A brief description of what the project does.
   
