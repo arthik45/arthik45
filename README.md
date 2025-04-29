@@ -22,7 +22,7 @@ Welcome to my GitHub! I am a **Full-Stack Developer** with a passion for buildin
 
 - **Backend**:
   - Node.js, Express.js
-  - MongoDB, PostgreSQL,
+  - MongoDB
   - REST APIs
 
 - ** Others**:
