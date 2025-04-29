@@ -37,7 +37,7 @@ Here are some of the projects I’ve worked on as Fresher:
 
 ### [Project 1: Payment Management System (MERN Stack)](https://github.com/arthik45/payment-app)
 - **Tech Stack**: React, Node.js, MongoDB
-- **Description**: A brief description of what the project does.
+- **Description**: The Payment Management System is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js). It helps manage customers, products, stock, and payment records with full CRUD functionality. Each module is connected to provide a seamless workflow for businesses. The app features a responsive UI, RESTful APIs, and MongoDB integration for efficient data handling.
   
 ### [Project 2: ChatBot](link-to-project)
 - **Tech Stack**: HTML, CSS, JavaScript, Node.js
